@@ -1,4 +1,4 @@
-# Company Research Assistant
+# Company Research Assistant ( Account Plan Generator )
 
 A full-stack application for researching companies with AI-powered assistance. The backend provides API endpoints for company research queries, audio transcription, and structured data formatting, while the frontend (React.js) provides the user interface.
 
